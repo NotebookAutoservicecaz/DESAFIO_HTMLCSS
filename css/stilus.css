@@ -1,0 +1,81 @@
+/* Zerando estilos*/
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+/*Estilos globais*/
+body{
+    font-family: Arial, sans-serif;
+}
+
+/*Cabecalho*/
+header{
+    
+    color: #1351d8;
+    text-align: center;
+    padding: 20px;
+    
+}
+.table1{
+    margin: 0 5px;
+    max-height: 200px;
+    display: flex;
+    align-items: center;
+   
+}
+table{
+    margin: 0 5px;
+    width: 500px;
+    max-height: 200px;
+    display: flex;
+    align-items: center;
+   
+}
+/*Navegacao*/
+nav a{
+    color: #1351d8;
+    margin: 0 10px;
+    text-decoration: none;
+     
+}
+
+/*Conteudo principal*/
+main{
+    padding: 0;
+    text-align: center;
+}
+
+/*Rodape*/
+footer{
+    background-color: #1b357e;
+    text-align: left;
+    padding: 15px;
+
+    h5{  
+        color: white;
+        width: auto;
+        height: 40px;
+        display: flex;
+        align-items: center;
+        float: left;
+        margin: 5px; 
+    } 
+    
+}
+
+.redes-sociais {
+    width: max-content;
+    height: 250px;
+    margin: 0 5px;
+       
+}
+
+.iten{
+    width: max-content;
+    height: 25px;
+    float: right;
+    margin: 10px;
+    
+}   
